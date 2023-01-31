@@ -4,7 +4,7 @@ services:
     image: hugo4715/bambubot:1.0.0
     build: .
     volumes:
-      - ./path-to-data:/data
+      - "${DATA_PATH:-./data}:/data"
     environment:
       PYTHONUNBUFFERED: 1
-      TOKEN: "your-token"
+      TOKEN: "${TOKEN}"
