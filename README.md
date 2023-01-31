@@ -22,6 +22,9 @@ docker-compose up -d
 
 # Commands
 
+Send the commands as private messages to the bot.
+
 ```
 !filaments - Check availability of all filaments
+!notify - Enable notifications for a filament
 ```
