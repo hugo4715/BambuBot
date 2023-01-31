@@ -10,8 +10,6 @@ intents = Intents.default()
 bot = commands.Bot(command_prefix='!', description='Filament checker', intents=intents)
 
 
-
-
 def request_filaments():
     url = "https://eu.store.bambulab.com/collections/bambu-lab-3d-printer-filament/products.json"
     response = requests.get(url)
@@ -87,6 +85,7 @@ async def filaments(ctx):
         part += line + '\n'
     await ctx.send(part)
 
+
 @bot.command('notify')
 async def filaments_in_stock_notification(ctx):
     # add user to list of users to notify or remove user from list of users to notify
@@ -101,6 +100,7 @@ async def filaments_in_stock_notification(ctx):
     with open('/data/users.json', 'w') as f:
         json.dump(users_to_notify, f)
 
+
 @bot.listen()
 async def on_ready():
     print('Logged in as')
@@ -108,6 +108,7 @@ async def on_ready():
     print(bot.user.id)
     print('------')
     check_filaments.start()
+
 
 if __name__ == '__main__':
     print('Starting bot...')
