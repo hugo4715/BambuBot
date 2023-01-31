@@ -1,0 +1,2254 @@
+{
+  "products": [
+    {
+      "id": 7938162229467,
+      "title": "PLA Basic",
+      "handle": "pla-basic",
+      "body_html": "\u003cdiv style=\"text-align: start;\"\u003e\u003cimg src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0584\/7236\/6216\/files\/1.png?v=1659516700\" style=\"float: none;\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\"\u003e\u003cimg style=\"float: none;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0584\/7236\/6216\/files\/pla-basic.png?v=1666612670\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\"\u003e\u003ca title=\"Bambu PLA Basic_Technical Data Sheet\" href=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0584\/7236\/6216\/files\/Bambu_PLA_Basic_Technical_Data_Sheet.pdf?v=1666343691\"\u003e\u003cimg style=\"float: none;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/files\/TDS_download_link.png?v=1663311838\"\u003e\u003c\/a\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\"\u003e\u003cimg src=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0645\/5876\/0155\/files\/WITB.png?v=1673358264\" style=\"float: none;\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\"\u003e\n\u003cimg style=\"float: none;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0584\/7236\/6216\/files\/Printed_Spool.png?v=1662542157\"\u003e\u003cbr\u003e\n\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\"\u003e\n\u003cp style=\"text-align: center;\"\u003e\u00a0\u003c\/p\u003e\n\u003c\/div\u003e\n\u003cstyle\u003e\u003c!--\n.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }\n--\u003e\u003c\/style\u003e\n\u003cdiv class=\"embed-container\"\u003e\u003ciframe src=\"https:\/\/www.youtube.com\/embed\/8MMZstVnBOY\" allowfullscreen=\"\" frameborder=\"0\"\u003e\u003c\/iframe\u003e\u003c\/div\u003e",
+      "published_at": "2023-01-10T21:54:48+08:00",
+      "created_at": "2023-01-10T21:42:52+08:00",
+      "updated_at": "2023-01-14T00:06:04+08:00",
+      "vendor": "Bambu Lab",
+      "product_type": "PLA Basic",
+      "tags": [
+        "filaments"
+      ],
+      "variants": [
+        {
+          "id": 43864212177115,
+          "title": "Filament with Spool \/ 1kg \/ Jade White",
+          "option1": "Filament with Spool",
+          "option2": "1kg",
+          "option3": "Jade White",
+          "sku": "A00-W1-1.75-1000-spl",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 39014171672795,
+            "product_id": 7938162229467,
+            "position": 2,
+            "created_at": "2023-01-10T21:43:27+08:00",
+            "updated_at": "2023-01-10T21:43:27+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/w.webp?v=1673358207",
+            "variant_ids": [
+              43864212177115
+            ]
+          },
+          "available": false,
+          "price": "24.99",
+          "grams": 1200,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 7938162229467,
+          "created_at": "2023-01-10T21:42:52+08:00",
+          "updated_at": "2023-01-13T15:00:55+08:00"
+        },
+        {
+          "id": 43864212209883,
+          "title": "Filament with Spool \/ 1kg \/ Red",
+          "option1": "Filament with Spool",
+          "option2": "1kg",
+          "option3": "Red",
+          "sku": "A00-R0-1.75-1000-spl",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 39014171705563,
+            "product_id": 7938162229467,
+            "position": 3,
+            "created_at": "2023-01-10T21:43:27+08:00",
+            "updated_at": "2023-01-10T21:43:28+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/red.webp?v=1673358208",
+            "variant_ids": [
+              43864212209883
+            ]
+          },
+          "available": false,
+          "price": "24.99",
+          "grams": 1200,
+          "compare_at_price": "0.00",
+          "position": 2,
+          "product_id": 7938162229467,
+          "created_at": "2023-01-10T21:42:53+08:00",
+          "updated_at": "2023-01-13T17:06:28+08:00"
+        },
+        {
+          "id": 43864212275419,
+          "title": "Filament with Spool \/ 1kg \/ Blue",
+          "option1": "Filament with Spool",
+          "option2": "1kg",
+          "option3": "Blue",
+          "sku": "A00-B0-1.75-1000-spl",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 39014171574491,
+            "product_id": 7938162229467,
+            "position": 1,
+            "created_at": "2023-01-10T21:43:27+08:00",
+            "updated_at": "2023-01-10T21:43:27+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/blue_cef98a61-004e-44ac-bafc-eeb744e4df0f.webp?v=1673358207",
+            "variant_ids": [
+              43864212275419
+            ]
+          },
+          "available": false,
+          "price": "24.99",
+          "grams": 1200,
+          "compare_at_price": "0.00",
+          "position": 3,
+          "product_id": 7938162229467,
+          "created_at": "2023-01-10T21:42:53+08:00",
+          "updated_at": "2023-01-14T00:03:25+08:00"
+        },
+        {
+          "id": 43864212308187,
+          "title": "Filament with Spool \/ 1kg \/ Silver",
+          "option1": "Filament with Spool",
+          "option2": "1kg",
+          "option3": "Silver",
+          "sku": "A00-D1-1.75-1000-spl",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 39014171836635,
+            "product_id": 7938162229467,
+            "position": 4,
+            "created_at": "2023-01-10T21:43:28+08:00",
+            "updated_at": "2023-01-10T21:43:28+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/sliver.webp?v=1673358208",
+            "variant_ids": [
+              43864212308187
+            ]
+          },
+          "available": false,
+          "price": "24.99",
+          "grams": 1200,
+          "compare_at_price": "0.00",
+          "position": 4,
+          "product_id": 7938162229467,
+          "created_at": "2023-01-10T21:42:53+08:00",
+          "updated_at": "2023-01-13T00:28:24+08:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39014171574491,
+          "created_at": "2023-01-10T21:43:27+08:00",
+          "position": 1,
+          "updated_at": "2023-01-10T21:43:27+08:00",
+          "product_id": 7938162229467,
+          "variant_ids": [
+            43864212275419
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/blue_cef98a61-004e-44ac-bafc-eeb744e4df0f.webp?v=1673358207",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 39014171672795,
+          "created_at": "2023-01-10T21:43:27+08:00",
+          "position": 2,
+          "updated_at": "2023-01-10T21:43:27+08:00",
+          "product_id": 7938162229467,
+          "variant_ids": [
+            43864212177115
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/w.webp?v=1673358207",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 39014171705563,
+          "created_at": "2023-01-10T21:43:27+08:00",
+          "position": 3,
+          "updated_at": "2023-01-10T21:43:28+08:00",
+          "product_id": 7938162229467,
+          "variant_ids": [
+            43864212209883
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/red.webp?v=1673358208",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 39014171836635,
+          "created_at": "2023-01-10T21:43:28+08:00",
+          "position": 4,
+          "updated_at": "2023-01-10T21:43:28+08:00",
+          "product_id": 7938162229467,
+          "variant_ids": [
+            43864212308187
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/sliver.webp?v=1673358208",
+          "width": 2800,
+          "height": 2800
+        }
+      ],
+      "options": [
+        {
+          "name": "Type",
+          "position": 1,
+          "values": [
+            "Filament with Spool"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "1kg"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 3,
+          "values": [
+            "Jade White",
+            "Red",
+            "Blue",
+            "Silver"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7735292035291,
+      "title": "PLA Matte (Refill)",
+      "handle": "pla-matte-filament",
+      "body_html": "\u003cdiv data-mce-fragment=\"1\"\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\n\u003cdiv data-mce-fragment=\"1\" style=\"text-align: start;\"\u003e\u003cimg style=\"float: none;\" src=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0645\/5876\/0155\/files\/1_be08e973-1da7-4f64-9a41-eb1f76ab4af6.png?v=1660719633\"\u003e\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\" style=\"text-align: start;\"\u003e\u003cimg style=\"float: none;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0584\/7236\/6216\/files\/pla-matte.png?v=1666612863\"\u003e\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\" style=\"text-align: start;\"\u003e\u003ca title=\"Bambu PLA Matte_Technical Data Sheet\" href=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0584\/7236\/6216\/files\/Bambu_PLA_Matte_Technical_Data_Sheet.pdf?v=1666343691\"\u003e\u003cimg style=\"float: none;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/files\/TDS_download_link.png?v=1663311838\"\u003e\u003c\/a\u003e\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\" style=\"text-align: start;\"\u003e\u003cimg style=\"float: none;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/files\/Group_1658.png?v=1663322035\"\u003e\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\" style=\"text-align: start;\"\u003e\u003cimg style=\"float: none;\" src=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0584\/7236\/6216\/files\/3.png?v=1659516729\"\u003e\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\" style=\"text-align: start;\"\u003e\u003cimg style=\"float: none;\" src=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0584\/7236\/6216\/files\/4.png?v=1659516747\"\u003e\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\" style=\"text-align: start;\"\u003e\u003ca href=\"https:\/\/wiki.bambulab.com\/en\/knowledge-sharing\/bambu-reusable-spool\" target=\"_blank\"\u003e\u003cimg style=\"float: none;\" src=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0584\/7236\/6216\/files\/5.png?v=1659516770\"\u003e\u003c\/a\u003e\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\" style=\"text-align: start;\"\u003e\u003cimg style=\"float: none;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0584\/7236\/6216\/files\/Printed_Spool_ea40daf1-f1eb-428e-bdc9-90bd80f0bed4.png?v=1662542363\"\u003e\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\" style=\"text-align: start;\"\u003e\n\u003cp style=\"text-align: center;\"\u003e\u00a0\u003c\/p\u003e\n\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\n\u003cul data-mce-fragment=\"1\"\u003e\u003c\/ul\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\n\u003cul data-mce-fragment=\"1\"\u003e\u003c\/ul\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003c\/div\u003e\n\u003cul data-mce-fragment=\"1\"\u003e\u003c\/ul\u003e\n\u003cbutton style=\"width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;\" id=\"paste-helper-id\"\u003e\u003c\/button\u003e\n\u003cstyle\u003e.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }\u003c\/style\u003e\u003cdiv class=\"embed-container\"\u003e\u003ciframe src=\"https:\/\/www.youtube.com\/embed\/8MMZstVnBOY\" frameborder=\"0\" allowfullscreen\u003e\u003c\/iframe\u003e\u003c\/div\u003e",
+      "published_at": "2022-06-27T16:54:49+08:00",
+      "created_at": "2022-06-27T16:48:56+08:00",
+      "updated_at": "2023-01-17T03:50:44+08:00",
+      "vendor": "Bambu Lab",
+      "product_type": "PLA Matte",
+      "tags": [
+        "filaments"
+      ],
+      "variants": [
+        {
+          "id": 42996742652123,
+          "title": "Refill \/ 1kg \/ Matte Mandarin Orange",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "Matte Mandarin Orange",
+          "sku": "A01-A2-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37695434064091,
+            "product_id": 7735292035291,
+            "position": 4,
+            "created_at": "2022-07-05T13:44:52+08:00",
+            "updated_at": "2022-11-04T16:36:50+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/o_b5856f32-b920-408d-bffa-459ef831c8e3.png?v=1667551010",
+            "variant_ids": [
+              42996742652123
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7735292035291,
+          "created_at": "2022-06-27T16:51:49+08:00",
+          "updated_at": "2023-01-10T21:50:07+08:00"
+        },
+        {
+          "id": 42996742586587,
+          "title": "Refill \/ 1kg \/ Matte Ivory White",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "Matte Ivory White",
+          "sku": "A01-W2-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37699407151323,
+            "product_id": 7735292035291,
+            "position": 3,
+            "created_at": "2022-07-05T22:26:17+08:00",
+            "updated_at": "2022-11-04T16:36:52+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/w_2e465bce-9c6c-42b0-ae66-0b20fc4f44a8.png?v=1667551012",
+            "variant_ids": [
+              42996742586587
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1200,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7735292035291,
+          "created_at": "2022-06-27T16:51:49+08:00",
+          "updated_at": "2023-01-10T21:50:07+08:00"
+        },
+        {
+          "id": 42996742750427,
+          "title": "Refill \/ 1kg \/ Matte Charcoal",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "Matte Charcoal",
+          "sku": "A01-K1-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37752799887579,
+            "product_id": 7735292035291,
+            "position": 5,
+            "created_at": "2022-07-12T14:27:23+08:00",
+            "updated_at": "2022-11-04T16:36:50+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/20220712-142617.png?v=1667551010",
+            "variant_ids": [
+              42996742750427
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1200,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 7735292035291,
+          "created_at": "2022-06-27T16:51:50+08:00",
+          "updated_at": "2023-01-10T21:50:07+08:00"
+        },
+        {
+          "id": 42996742848731,
+          "title": "Refill \/ 1kg \/ Matte Scarlet Red",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "Matte Scarlet Red",
+          "sku": "A01-R1-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37695685263579,
+            "product_id": 7735292035291,
+            "position": 6,
+            "created_at": "2022-07-05T14:11:09+08:00",
+            "updated_at": "2022-11-04T16:36:50+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/red_0b184101-7a66-4188-9920-55a8ee409b2c.png?v=1667551010",
+            "variant_ids": [
+              42996742848731
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1200,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 7735292035291,
+          "created_at": "2022-06-27T16:51:50+08:00",
+          "updated_at": "2023-01-10T21:50:07+08:00"
+        },
+        {
+          "id": 42996742619355,
+          "title": "Refill \/ 1kg \/ Matte Ash Grey",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "Matte Ash Grey",
+          "sku": "A01-D3-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37695538954459,
+            "product_id": 7735292035291,
+            "position": 7,
+            "created_at": "2022-07-05T13:54:49+08:00",
+            "updated_at": "2022-11-04T16:36:50+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/grey_0950c964-5e76-4a07-bfb2-de2c4c83fbda.png?v=1667551010",
+            "variant_ids": [
+              42996742619355
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1200,
+          "compare_at_price": null,
+          "position": 5,
+          "product_id": 7735292035291,
+          "created_at": "2022-06-27T16:51:49+08:00",
+          "updated_at": "2023-01-10T21:50:07+08:00"
+        },
+        {
+          "id": 42996751073499,
+          "title": "Refill \/ 1kg \/ Matte Marine Blue",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "Matte Marine Blue",
+          "sku": "A01-B3-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37695707873499,
+            "product_id": 7735292035291,
+            "position": 8,
+            "created_at": "2022-07-05T14:15:54+08:00",
+            "updated_at": "2022-11-04T16:36:50+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/blue_84d9d2a0-92fb-4628-aa66-83040c1d02ad.png?v=1667551010",
+            "variant_ids": [
+              42996751073499
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1200,
+          "compare_at_price": null,
+          "position": 6,
+          "product_id": 7735292035291,
+          "created_at": "2022-06-27T16:59:37+08:00",
+          "updated_at": "2023-01-10T21:50:07+08:00"
+        },
+        {
+          "id": 42996742881499,
+          "title": "Refill \/ 1kg \/ Matte Ice Blue",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "Matte Ice Blue",
+          "sku": "A01-B4-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37695698534619,
+            "product_id": 7735292035291,
+            "position": 9,
+            "created_at": "2022-07-05T14:13:40+08:00",
+            "updated_at": "2022-11-04T16:36:50+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/ice-blue_7572d408-6a4b-4e8c-bec9-0cd082171926.png?v=1667551010",
+            "variant_ids": [
+              42996742881499
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1200,
+          "compare_at_price": null,
+          "position": 7,
+          "product_id": 7735292035291,
+          "created_at": "2022-06-27T16:51:50+08:00",
+          "updated_at": "2023-01-10T21:50:07+08:00"
+        },
+        {
+          "id": 42996742717659,
+          "title": "Refill \/ 1kg \/ Matte Lemon Yellow",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "Matte Lemon Yellow",
+          "sku": "A01-Y2-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37695718260955,
+            "product_id": 7735292035291,
+            "position": 10,
+            "created_at": "2022-07-05T14:18:07+08:00",
+            "updated_at": "2022-11-04T16:36:50+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/y_690d0c1f-e006-4a88-b082-201b115eb091.png?v=1667551010",
+            "variant_ids": [
+              42996742717659
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1200,
+          "compare_at_price": null,
+          "position": 8,
+          "product_id": 7735292035291,
+          "created_at": "2022-06-27T16:51:49+08:00",
+          "updated_at": "2023-01-10T21:50:07+08:00"
+        },
+        {
+          "id": 42996742783195,
+          "title": "Refill \/ 1kg \/ Matte Grass Green",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "Matte Grass Green",
+          "sku": "A01-G1-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37695689261275,
+            "product_id": 7735292035291,
+            "position": 11,
+            "created_at": "2022-07-05T14:11:56+08:00",
+            "updated_at": "2022-11-04T16:36:50+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/gross_green_0e23cff6-425c-4a6b-8c97-aabb44a84ccf.png?v=1667551010",
+            "variant_ids": [
+              42996742783195
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1200,
+          "compare_at_price": null,
+          "position": 9,
+          "product_id": 7735292035291,
+          "created_at": "2022-06-27T16:51:50+08:00",
+          "updated_at": "2023-01-10T21:50:07+08:00"
+        },
+        {
+          "id": 42996742684891,
+          "title": "Refill \/ 1kg \/ Matte Sakura Pink",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "Matte Sakura Pink",
+          "sku": "A01-P3-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37695717048539,
+            "product_id": 7735292035291,
+            "position": 12,
+            "created_at": "2022-07-05T14:17:48+08:00",
+            "updated_at": "2022-11-04T16:36:50+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/sp_50b9e7db-42fe-44ac-b74c-fe15e6b5dd55.png?v=1667551010",
+            "variant_ids": [
+              42996742684891
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1200,
+          "compare_at_price": null,
+          "position": 10,
+          "product_id": 7735292035291,
+          "created_at": "2022-06-27T16:51:49+08:00",
+          "updated_at": "2023-01-17T03:47:01+08:00"
+        },
+        {
+          "id": 42996742914267,
+          "title": "Refill \/ 1kg \/ Matte Lilac purple",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "Matte Lilac purple",
+          "sku": "A01-P4-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37695526404315,
+            "product_id": 7735292035291,
+            "position": 1,
+            "created_at": "2022-07-05T13:53:13+08:00",
+            "updated_at": "2022-11-04T16:36:52+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/pp.png?v=1667551012",
+            "variant_ids": [
+              42996742914267
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1200,
+          "compare_at_price": null,
+          "position": 11,
+          "product_id": 7735292035291,
+          "created_at": "2022-06-27T16:51:50+08:00",
+          "updated_at": "2023-01-11T17:52:02+08:00"
+        },
+        {
+          "id": 42996742815963,
+          "title": "Refill \/ 1kg \/ Matte Latte Brown",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "Matte Latte Brown",
+          "sku": "A01-N1-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37695687983323,
+            "product_id": 7735292035291,
+            "position": 13,
+            "created_at": "2022-07-05T14:11:33+08:00",
+            "updated_at": "2022-10-24T20:33:38+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/brown_929ce151-4cbc-45c3-8013-f2a547327a39.png?v=1666614818",
+            "variant_ids": [
+              42996742815963
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1200,
+          "compare_at_price": null,
+          "position": 12,
+          "product_id": 7735292035291,
+          "created_at": "2022-06-27T16:51:50+08:00",
+          "updated_at": "2023-01-10T21:50:07+08:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 37695526404315,
+          "created_at": "2022-07-05T13:53:13+08:00",
+          "position": 1,
+          "updated_at": "2022-11-04T16:36:52+08:00",
+          "product_id": 7735292035291,
+          "variant_ids": [
+            42996742914267
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/pp.png?v=1667551012",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37695507431643,
+          "created_at": "2022-07-05T13:51:10+08:00",
+          "position": 2,
+          "updated_at": "2022-11-04T16:36:52+08:00",
+          "product_id": 7735292035291,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/2d07dc0c1096f43293573ca8d1643a3b_e06caa02-14c2-417b-a511-eeccb5dca9d2.png?v=1667551012",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37699407151323,
+          "created_at": "2022-07-05T22:26:17+08:00",
+          "position": 3,
+          "updated_at": "2022-11-04T16:36:52+08:00",
+          "product_id": 7735292035291,
+          "variant_ids": [
+            42996742586587
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/w_2e465bce-9c6c-42b0-ae66-0b20fc4f44a8.png?v=1667551012",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37695434064091,
+          "created_at": "2022-07-05T13:44:52+08:00",
+          "position": 4,
+          "updated_at": "2022-11-04T16:36:50+08:00",
+          "product_id": 7735292035291,
+          "variant_ids": [
+            42996742652123
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/o_b5856f32-b920-408d-bffa-459ef831c8e3.png?v=1667551010",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37752799887579,
+          "created_at": "2022-07-12T14:27:23+08:00",
+          "position": 5,
+          "updated_at": "2022-11-04T16:36:50+08:00",
+          "product_id": 7735292035291,
+          "variant_ids": [
+            42996742750427
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/20220712-142617.png?v=1667551010",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37695685263579,
+          "created_at": "2022-07-05T14:11:09+08:00",
+          "position": 6,
+          "updated_at": "2022-11-04T16:36:50+08:00",
+          "product_id": 7735292035291,
+          "variant_ids": [
+            42996742848731
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/red_0b184101-7a66-4188-9920-55a8ee409b2c.png?v=1667551010",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37695538954459,
+          "created_at": "2022-07-05T13:54:49+08:00",
+          "position": 7,
+          "updated_at": "2022-11-04T16:36:50+08:00",
+          "product_id": 7735292035291,
+          "variant_ids": [
+            42996742619355
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/grey_0950c964-5e76-4a07-bfb2-de2c4c83fbda.png?v=1667551010",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37695707873499,
+          "created_at": "2022-07-05T14:15:54+08:00",
+          "position": 8,
+          "updated_at": "2022-11-04T16:36:50+08:00",
+          "product_id": 7735292035291,
+          "variant_ids": [
+            42996751073499
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/blue_84d9d2a0-92fb-4628-aa66-83040c1d02ad.png?v=1667551010",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37695698534619,
+          "created_at": "2022-07-05T14:13:40+08:00",
+          "position": 9,
+          "updated_at": "2022-11-04T16:36:50+08:00",
+          "product_id": 7735292035291,
+          "variant_ids": [
+            42996742881499
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/ice-blue_7572d408-6a4b-4e8c-bec9-0cd082171926.png?v=1667551010",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37695718260955,
+          "created_at": "2022-07-05T14:18:07+08:00",
+          "position": 10,
+          "updated_at": "2022-11-04T16:36:50+08:00",
+          "product_id": 7735292035291,
+          "variant_ids": [
+            42996742717659
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/y_690d0c1f-e006-4a88-b082-201b115eb091.png?v=1667551010",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37695689261275,
+          "created_at": "2022-07-05T14:11:56+08:00",
+          "position": 11,
+          "updated_at": "2022-11-04T16:36:50+08:00",
+          "product_id": 7735292035291,
+          "variant_ids": [
+            42996742783195
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/gross_green_0e23cff6-425c-4a6b-8c97-aabb44a84ccf.png?v=1667551010",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37695717048539,
+          "created_at": "2022-07-05T14:17:48+08:00",
+          "position": 12,
+          "updated_at": "2022-11-04T16:36:50+08:00",
+          "product_id": 7735292035291,
+          "variant_ids": [
+            42996742684891
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/sp_50b9e7db-42fe-44ac-b74c-fe15e6b5dd55.png?v=1667551010",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37695687983323,
+          "created_at": "2022-07-05T14:11:33+08:00",
+          "position": 13,
+          "updated_at": "2022-10-24T20:33:38+08:00",
+          "product_id": 7735292035291,
+          "variant_ids": [
+            42996742815963
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/brown_929ce151-4cbc-45c3-8013-f2a547327a39.png?v=1666614818",
+          "width": 2800,
+          "height": 2800
+        }
+      ],
+      "options": [
+        {
+          "name": "Type",
+          "position": 1,
+          "values": [
+            "Refill"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "1kg"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 3,
+          "values": [
+            "Matte Mandarin Orange",
+            "Matte Ivory White",
+            "Matte Charcoal",
+            "Matte Scarlet Red",
+            "Matte Ash Grey",
+            "Matte Marine Blue",
+            "Matte Ice Blue",
+            "Matte Lemon Yellow",
+            "Matte Grass Green",
+            "Matte Sakura Pink",
+            "Matte Lilac purple",
+            "Matte Latte Brown"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7713130840283,
+      "title": "ABS (Refill)",
+      "handle": "abs-filament",
+      "body_html": "\u003cdiv style=\"display: none;\"\u003eBambu ABS Filament description\u003c\/div\u003e\n\u003cdiv data-line-index=\"0\" data-zone-id=\"0\" data-mce-fragment=\"1\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-fragment=\"1\"\u003e\n\u003cp\u003e\u003cimg src=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0645\/5876\/0155\/files\/1_be08e973-1da7-4f64-9a41-eb1f76ab4af6.png?v=1660719633\" style=\"float: none;\"\u003e\u003c\/p\u003e\n\u003cp\u003e\u003cimg src=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0584\/7236\/6216\/files\/abs_7cff62bb-225d-4f44-987e-f456f3dc072c.png?v=1666612074\" style=\"float: none;\"\u003e\u003c\/p\u003e\n\u003cp\u003e\u003ca href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0574\/3116\/2995\/files\/Bambu_ABS_Technical_Data_Sheet.pdf?v=1663320185\" title=\"Bambu ABS_Technical Data Sheet\" target=\"_blank\"\u003e\u003cimg src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/files\/TDS_download_link.png?v=1663311838\" style=\"float: none;\"\u003e\u003c\/a\u003e\u003c\/p\u003e\n\u003cp\u003e\u003cimg src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/files\/Group_1656.png?v=1663314856\" style=\"float: none;\"\u003e\u003c\/p\u003e\n\u003cp\u003e\u003cimg src=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0573\/5320\/7868\/files\/3_5d4d0456-6f5f-4ff8-8ffa-a2c64355bb70.png?v=1667271403\" style=\"float: none;\"\u003e\u003c\/p\u003e\n\u003cp\u003e\u003cstrong data-mce-fragment=\"1\"\u003e\u003cimg style=\"float: none;\" src=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0584\/7236\/6216\/files\/4.png?v=1659516747\"\u003e\u003c\/strong\u003e\u003c\/p\u003e\n\u003cp\u003e\u003ca href=\"https:\/\/wiki.bambulab.com\/en\/knowledge-sharing\/bambu-reusable-spool\" target=\"_blank\"\u003e\u003cstrong data-mce-fragment=\"1\"\u003e\u003cimg style=\"float: none;\" src=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0584\/7236\/6216\/files\/5.png?v=1659516770\"\u003e\u003c\/strong\u003e\u003c\/a\u003e\u003c\/p\u003e\n\u003cp\u003e\u003cimg src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0584\/7236\/6216\/files\/Printed_Spool_7f685192-5e77-4b37-bed1-81c8b61a1f05.png?v=1662542510\" style=\"float: none;\"\u003e\u003c\/p\u003e\n\u003c\/div\u003e\n\u003cdiv data-zone-id=\"0\" data-line-index=\"0\" data-mce-fragment=\"1\"\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003c\/div\u003e\n\u003cdiv data-zone-id=\"0\" data-line-index=\"0\" data-mce-fragment=\"1\"\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003c\/div\u003e\n\u003cdiv data-line-index=\"0\" data-zone-id=\"0\" data-mce-fragment=\"1\"\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003c\/div\u003e\n\u003cbutton style=\"width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;\" id=\"paste-helper-id\"\u003e\u003c\/button\u003e\n\u003cstyle\u003e.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }\u003c\/style\u003e\u003cdiv class=\"embed-container\"\u003e\u003ciframe src=\"https:\/\/www.youtube.com\/embed\/8MMZstVnBOY\" frameborder=\"0\" allowfullscreen\u003e\u003c\/iframe\u003e\u003c\/div\u003e",
+      "published_at": "2022-06-01T15:43:51+08:00",
+      "created_at": "2022-06-01T15:34:11+08:00",
+      "updated_at": "2023-01-17T03:47:00+08:00",
+      "vendor": "Bambu Lab",
+      "product_type": "ABS",
+      "tags": [
+        "filaments"
+      ],
+      "variants": [
+        {
+          "id": 42917259182299,
+          "title": "Refill \/ 1kg \/ ABS Blue",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "ABS Blue",
+          "sku": "B00-B0-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37694247207131,
+            "product_id": 7713130840283,
+            "position": 1,
+            "created_at": "2022-07-05T12:07:50+08:00",
+            "updated_at": "2022-07-05T18:06:48+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/blue_53e28841-c9af-4c27-b669-25bacd25e0c9.png?v=1657015608",
+            "variant_ids": [
+              42917259182299
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1000,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7713130840283,
+          "created_at": "2022-06-01T15:43:52+08:00",
+          "updated_at": "2023-01-11T04:06:52+08:00"
+        },
+        {
+          "id": 42917259116763,
+          "title": "Refill \/ 1kg \/ ABS Red",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "ABS Red",
+          "sku": "B00-R0-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37694231085275,
+            "product_id": 7713130840283,
+            "position": 3,
+            "created_at": "2022-07-05T12:07:05+08:00",
+            "updated_at": "2022-07-05T18:06:48+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/20220629.png?v=1657015608",
+            "variant_ids": [
+              42917259116763
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1000,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7713130840283,
+          "created_at": "2022-06-01T15:43:51+08:00",
+          "updated_at": "2023-01-12T13:42:51+08:00"
+        },
+        {
+          "id": 42917259051227,
+          "title": "Refill \/ 1kg \/ ABS Black",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "ABS Black",
+          "sku": "B00-K0-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37694218305755,
+            "product_id": 7713130840283,
+            "position": 4,
+            "created_at": "2022-07-05T12:06:26+08:00",
+            "updated_at": "2022-07-05T18:06:48+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/black.png?v=1657015608",
+            "variant_ids": [
+              42917259051227
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1000,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 7713130840283,
+          "created_at": "2022-06-01T15:43:51+08:00",
+          "updated_at": "2023-01-10T21:09:35+08:00"
+        },
+        {
+          "id": 42917259083995,
+          "title": "Refill \/ 1kg \/ ABS White",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "ABS White",
+          "sku": "B00-W0-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37697408205019,
+            "product_id": 7713130840283,
+            "position": 5,
+            "created_at": "2022-07-05T18:05:42+08:00",
+            "updated_at": "2022-07-07T13:19:52+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/w_7677568c-d32f-4a75-b826-cda92161df96.png?v=1657171192",
+            "variant_ids": [
+              42917259083995
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1000,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 7713130840283,
+          "created_at": "2022-06-01T15:43:51+08:00",
+          "updated_at": "2023-01-11T14:40:33+08:00"
+        },
+        {
+          "id": 42917259149531,
+          "title": "Refill \/ 1kg \/ ABS Yellow",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "ABS Yellow",
+          "sku": "B00-Y0-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37694236786907,
+            "product_id": 7713130840283,
+            "position": 6,
+            "created_at": "2022-07-05T12:07:24+08:00",
+            "updated_at": "2022-07-07T13:19:52+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/yellow.png?v=1657171192",
+            "variant_ids": [
+              42917259149531
+            ]
+          },
+          "available": true,
+          "price": "22.99",
+          "grams": 1000,
+          "compare_at_price": null,
+          "position": 5,
+          "product_id": 7713130840283,
+          "created_at": "2022-06-01T15:43:52+08:00",
+          "updated_at": "2023-01-17T03:47:00+08:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 37694247207131,
+          "created_at": "2022-07-05T12:07:50+08:00",
+          "position": 1,
+          "updated_at": "2022-07-05T18:06:48+08:00",
+          "product_id": 7713130840283,
+          "variant_ids": [
+            42917259182299
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/blue_53e28841-c9af-4c27-b669-25bacd25e0c9.png?v=1657015608",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37694938185947,
+          "created_at": "2022-07-05T13:10:42+08:00",
+          "position": 2,
+          "updated_at": "2022-07-05T18:06:48+08:00",
+          "product_id": 7713130840283,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/2d07dc0c1096f43293573ca8d1643a3b_f7b0d9fa-ec38-4ce0-9d8c-51c63d3a7418.png?v=1657015608",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37694231085275,
+          "created_at": "2022-07-05T12:07:05+08:00",
+          "position": 3,
+          "updated_at": "2022-07-05T18:06:48+08:00",
+          "product_id": 7713130840283,
+          "variant_ids": [
+            42917259116763
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/20220629.png?v=1657015608",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37694218305755,
+          "created_at": "2022-07-05T12:06:26+08:00",
+          "position": 4,
+          "updated_at": "2022-07-05T18:06:48+08:00",
+          "product_id": 7713130840283,
+          "variant_ids": [
+            42917259051227
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/black.png?v=1657015608",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37697408205019,
+          "created_at": "2022-07-05T18:05:42+08:00",
+          "position": 5,
+          "updated_at": "2022-07-07T13:19:52+08:00",
+          "product_id": 7713130840283,
+          "variant_ids": [
+            42917259083995
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/w_7677568c-d32f-4a75-b826-cda92161df96.png?v=1657171192",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37694236786907,
+          "created_at": "2022-07-05T12:07:24+08:00",
+          "position": 6,
+          "updated_at": "2022-07-07T13:19:52+08:00",
+          "product_id": 7713130840283,
+          "variant_ids": [
+            42917259149531
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/yellow.png?v=1657171192",
+          "width": 2800,
+          "height": 2800
+        }
+      ],
+      "options": [
+        {
+          "name": "Type",
+          "position": 1,
+          "values": [
+            "Refill"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "1kg"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 3,
+          "values": [
+            "ABS Blue",
+            "ABS Red",
+            "ABS Black",
+            "ABS White",
+            "ABS Yellow"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7711728074971,
+      "title": "PLA Basic (Refill)",
+      "handle": "pla-basic-filament",
+      "body_html": "\u003cdiv style=\"text-align: start;\"\u003e\u003cimg src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0584\/7236\/6216\/files\/1.png?v=1659516700\" style=\"float: none;\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\"\u003e\u003cimg style=\"float: none;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0584\/7236\/6216\/files\/pla-basic.png?v=1666612670\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\"\u003e\u003ca title=\"Bambu PLA Basic_Technical Data Sheet\" href=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0584\/7236\/6216\/files\/Bambu_PLA_Basic_Technical_Data_Sheet.pdf?v=1666343691\"\u003e\u003cimg style=\"float: none;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/files\/TDS_download_link.png?v=1663311838\"\u003e\u003c\/a\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\"\u003e\n\u003cimg style=\"float: none;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/files\/Group_1659.png?v=1663321678\"\u003e\u003cimg data-mce-fragment=\"1\" style=\"float: none;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0584\/7236\/6216\/files\/3_480x480.png?v=1659516729\" data-mce-src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0584\/7236\/6216\/files\/3_480x480.png?v=1659516729\"\u003e\n\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\"\u003e\u003cimg src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0584\/7236\/6216\/files\/4.png?v=1659516747\" style=\"float: none;\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\"\u003e\u003ca href=\"https:\/\/wiki.bambulab.com\/en\/knowledge-sharing\/bambu-reusable-spool\" target=\"_blank\"\u003e\u003cimg src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0584\/7236\/6216\/files\/5.png?v=1659516770\" style=\"float: none;\"\u003e\u003c\/a\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\"\u003e\n\u003cimg style=\"float: none;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0584\/7236\/6216\/files\/Printed_Spool.png?v=1662542157\"\u003e\u003cbr\u003e\n\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\"\u003e\n\u003cp style=\"text-align: center;\"\u003e\u00a0\u003c\/p\u003e\n\u003c\/div\u003e\n\u003cstyle\u003e\u003c!--\n.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }\n--\u003e\u003c\/style\u003e\n\u003cdiv class=\"embed-container\"\u003e\u003ciframe src=\"https:\/\/www.youtube.com\/embed\/8MMZstVnBOY\" allowfullscreen=\"\" frameborder=\"0\"\u003e\u003c\/iframe\u003e\u003c\/div\u003e",
+      "published_at": "2022-05-30T16:39:37+08:00",
+      "created_at": "2022-05-30T16:39:33+08:00",
+      "updated_at": "2023-01-14T21:35:37+08:00",
+      "vendor": "Bambu Lab",
+      "product_type": "PLA Basic",
+      "tags": [
+        "filaments"
+      ],
+      "variants": [
+        {
+          "id": 42911327879387,
+          "title": "Refill \/ 1kg \/ Orange",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "Orange",
+          "sku": "A00-A0-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37694162698459,
+            "product_id": 7711728074971,
+            "position": 3,
+            "created_at": "2022-07-05T12:00:59+08:00",
+            "updated_at": "2022-11-04T16:37:18+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/orange.png?v=1667551038",
+            "variant_ids": [
+              42911327879387
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1200,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 7711728074971,
+          "created_at": "2022-05-30T16:39:33+08:00",
+          "updated_at": "2023-01-10T21:42:13+08:00"
+        },
+        {
+          "id": 42911327846619,
+          "title": "Refill \/ 1kg \/ Jade White",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "Jade White",
+          "sku": "A00-W1-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37699466264795,
+            "product_id": 7711728074971,
+            "position": 4,
+            "created_at": "2022-07-05T22:33:30+08:00",
+            "updated_at": "2022-11-04T16:37:16+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/w.png?v=1667551036",
+            "variant_ids": [
+              42911327846619
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1200,
+          "compare_at_price": "0.00",
+          "position": 2,
+          "product_id": 7711728074971,
+          "created_at": "2022-05-30T16:39:33+08:00",
+          "updated_at": "2023-01-10T21:42:13+08:00"
+        },
+        {
+          "id": 42911328239835,
+          "title": "Refill \/ 1kg \/ Red",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "Red",
+          "sku": "A00-R0-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37694189175003,
+            "product_id": 7711728074971,
+            "position": 5,
+            "created_at": "2022-07-05T12:04:52+08:00",
+            "updated_at": "2022-11-04T16:37:16+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/red.png?v=1667551036",
+            "variant_ids": [
+              42911328239835
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1200,
+          "compare_at_price": "0.00",
+          "position": 3,
+          "product_id": 7711728074971,
+          "created_at": "2022-05-30T16:39:34+08:00",
+          "updated_at": "2023-01-10T21:42:13+08:00"
+        },
+        {
+          "id": 42911327944923,
+          "title": "Refill \/ 1kg \/ Grey",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "Grey",
+          "sku": "A00-D0-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37694168006875,
+            "product_id": 7711728074971,
+            "position": 6,
+            "created_at": "2022-07-05T12:02:02+08:00",
+            "updated_at": "2022-11-04T16:37:16+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/grey.png?v=1667551036",
+            "variant_ids": [
+              42911327944923
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1200,
+          "compare_at_price": "0.00",
+          "position": 4,
+          "product_id": 7711728074971,
+          "created_at": "2022-05-30T16:39:34+08:00",
+          "updated_at": "2023-01-10T21:42:13+08:00"
+        },
+        {
+          "id": 42911327912155,
+          "title": "Refill \/ 1kg \/ Blue",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "Blue",
+          "sku": "A00-B0-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37699611361499,
+            "product_id": 7711728074971,
+            "position": 1,
+            "created_at": "2022-07-05T22:50:55+08:00",
+            "updated_at": "2022-11-04T16:37:18+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/blue_cef98a61-004e-44ac-bafc-eeb744e4df0f.png?v=1667551038",
+            "variant_ids": [
+              42911327912155
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1200,
+          "compare_at_price": "0.00",
+          "position": 5,
+          "product_id": 7711728074971,
+          "created_at": "2022-05-30T16:39:33+08:00",
+          "updated_at": "2023-01-10T21:42:13+08:00"
+        },
+        {
+          "id": 42911328010459,
+          "title": "Refill \/ 1kg \/ Silver",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "Silver",
+          "sku": "A00-D1-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37694171971803,
+            "product_id": 7711728074971,
+            "position": 7,
+            "created_at": "2022-07-05T12:02:44+08:00",
+            "updated_at": "2022-10-24T20:31:55+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/sliver.png?v=1666614715",
+            "variant_ids": [
+              42911328010459
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1200,
+          "compare_at_price": "0.00",
+          "position": 6,
+          "product_id": 7711728074971,
+          "created_at": "2022-05-30T16:39:34+08:00",
+          "updated_at": "2023-01-10T21:42:13+08:00"
+        },
+        {
+          "id": 42911327977691,
+          "title": "Refill \/ 1kg \/ Beige",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "Beige",
+          "sku": "A00-P0-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37694169710811,
+            "product_id": 7711728074971,
+            "position": 8,
+            "created_at": "2022-07-05T12:02:24+08:00",
+            "updated_at": "2022-10-24T20:31:55+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/begie_1b9d871c-ff35-44e1-b838-814e4ced5851.png?v=1666614715",
+            "variant_ids": [
+              42911327977691
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1200,
+          "compare_at_price": "0.00",
+          "position": 7,
+          "product_id": 7711728074971,
+          "created_at": "2022-05-30T16:39:34+08:00",
+          "updated_at": "2023-01-10T21:42:13+08:00"
+        },
+        {
+          "id": 42911328075995,
+          "title": "Refill \/ 1kg \/ Blue Grey",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "Blue Grey",
+          "sku": "A00-B1-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37694176264411,
+            "product_id": 7711728074971,
+            "position": 9,
+            "created_at": "2022-07-05T12:03:25+08:00",
+            "updated_at": "2022-10-24T20:31:55+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/blue_grey.png?v=1666614715",
+            "variant_ids": [
+              42911328075995
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1200,
+          "compare_at_price": "0.00",
+          "position": 8,
+          "product_id": 7711728074971,
+          "created_at": "2022-05-30T16:39:34+08:00",
+          "updated_at": "2023-01-10T21:42:13+08:00"
+        },
+        {
+          "id": 42911328043227,
+          "title": "Refill \/ 1kg \/ Yellow",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "Yellow",
+          "sku": "A00-Y0-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37694174494939,
+            "product_id": 7711728074971,
+            "position": 10,
+            "created_at": "2022-07-05T12:03:04+08:00",
+            "updated_at": "2022-10-24T20:31:55+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/y.png?v=1666614715",
+            "variant_ids": [
+              42911328043227
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1200,
+          "compare_at_price": "0.00",
+          "position": 9,
+          "product_id": 7711728074971,
+          "created_at": "2022-05-30T16:39:34+08:00",
+          "updated_at": "2023-01-10T21:42:13+08:00"
+        },
+        {
+          "id": 42911328174299,
+          "title": "Refill \/ 1kg \/ Green",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "Green",
+          "sku": "A00-G0-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37694178754779,
+            "product_id": 7711728074971,
+            "position": 11,
+            "created_at": "2022-07-05T12:04:07+08:00",
+            "updated_at": "2022-10-24T20:31:55+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/green.png?v=1666614715",
+            "variant_ids": [
+              42911328174299
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1200,
+          "compare_at_price": "0.00",
+          "position": 10,
+          "product_id": 7711728074971,
+          "created_at": "2022-05-30T16:39:34+08:00",
+          "updated_at": "2023-01-10T21:42:13+08:00"
+        },
+        {
+          "id": 42911328141531,
+          "title": "Refill \/ 1kg \/ Pink",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "Pink",
+          "sku": "A00-P1-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37694177673435,
+            "product_id": 7711728074971,
+            "position": 12,
+            "created_at": "2022-07-05T12:03:43+08:00",
+            "updated_at": "2022-10-24T20:31:55+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/pink.png?v=1666614715",
+            "variant_ids": [
+              42911328141531
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1200,
+          "compare_at_price": "0.00",
+          "position": 11,
+          "product_id": 7711728074971,
+          "created_at": "2022-05-30T16:39:34+08:00",
+          "updated_at": "2023-01-14T21:31:32+08:00"
+        },
+        {
+          "id": 42911328207067,
+          "title": "Refill \/ 1kg \/ Brown",
+          "option1": "Refill",
+          "option2": "1kg",
+          "option3": "Brown",
+          "sku": "A00-N0-1.75-1000-splfree",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37694181408987,
+            "product_id": 7711728074971,
+            "position": 13,
+            "created_at": "2022-07-05T12:04:30+08:00",
+            "updated_at": "2022-10-24T20:31:37+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/brown.png?v=1666614697",
+            "variant_ids": [
+              42911328207067
+            ]
+          },
+          "available": false,
+          "price": "22.99",
+          "grams": 1200,
+          "compare_at_price": "0.00",
+          "position": 12,
+          "product_id": 7711728074971,
+          "created_at": "2022-05-30T16:39:34+08:00",
+          "updated_at": "2023-01-10T21:42:13+08:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 37699611361499,
+          "created_at": "2022-07-05T22:50:55+08:00",
+          "position": 1,
+          "updated_at": "2022-11-04T16:37:18+08:00",
+          "product_id": 7711728074971,
+          "variant_ids": [
+            42911327912155
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/blue_cef98a61-004e-44ac-bafc-eeb744e4df0f.png?v=1667551038",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37694156177627,
+          "created_at": "2022-07-05T12:00:04+08:00",
+          "position": 2,
+          "updated_at": "2022-11-04T16:37:18+08:00",
+          "product_id": 7711728074971,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/2d07dc0c1096f43293573ca8d1643a3b.png?v=1667551038",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37694162698459,
+          "created_at": "2022-07-05T12:00:59+08:00",
+          "position": 3,
+          "updated_at": "2022-11-04T16:37:18+08:00",
+          "product_id": 7711728074971,
+          "variant_ids": [
+            42911327879387
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/orange.png?v=1667551038",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37699466264795,
+          "created_at": "2022-07-05T22:33:30+08:00",
+          "position": 4,
+          "updated_at": "2022-11-04T16:37:16+08:00",
+          "product_id": 7711728074971,
+          "variant_ids": [
+            42911327846619
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/w.png?v=1667551036",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37694189175003,
+          "created_at": "2022-07-05T12:04:52+08:00",
+          "position": 5,
+          "updated_at": "2022-11-04T16:37:16+08:00",
+          "product_id": 7711728074971,
+          "variant_ids": [
+            42911328239835
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/red.png?v=1667551036",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37694168006875,
+          "created_at": "2022-07-05T12:02:02+08:00",
+          "position": 6,
+          "updated_at": "2022-11-04T16:37:16+08:00",
+          "product_id": 7711728074971,
+          "variant_ids": [
+            42911327944923
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/grey.png?v=1667551036",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37694171971803,
+          "created_at": "2022-07-05T12:02:44+08:00",
+          "position": 7,
+          "updated_at": "2022-10-24T20:31:55+08:00",
+          "product_id": 7711728074971,
+          "variant_ids": [
+            42911328010459
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/sliver.png?v=1666614715",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37694169710811,
+          "created_at": "2022-07-05T12:02:24+08:00",
+          "position": 8,
+          "updated_at": "2022-10-24T20:31:55+08:00",
+          "product_id": 7711728074971,
+          "variant_ids": [
+            42911327977691
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/begie_1b9d871c-ff35-44e1-b838-814e4ced5851.png?v=1666614715",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37694176264411,
+          "created_at": "2022-07-05T12:03:25+08:00",
+          "position": 9,
+          "updated_at": "2022-10-24T20:31:55+08:00",
+          "product_id": 7711728074971,
+          "variant_ids": [
+            42911328075995
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/blue_grey.png?v=1666614715",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37694174494939,
+          "created_at": "2022-07-05T12:03:04+08:00",
+          "position": 10,
+          "updated_at": "2022-10-24T20:31:55+08:00",
+          "product_id": 7711728074971,
+          "variant_ids": [
+            42911328043227
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/y.png?v=1666614715",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37694178754779,
+          "created_at": "2022-07-05T12:04:07+08:00",
+          "position": 11,
+          "updated_at": "2022-10-24T20:31:55+08:00",
+          "product_id": 7711728074971,
+          "variant_ids": [
+            42911328174299
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/green.png?v=1666614715",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37694177673435,
+          "created_at": "2022-07-05T12:03:43+08:00",
+          "position": 12,
+          "updated_at": "2022-10-24T20:31:55+08:00",
+          "product_id": 7711728074971,
+          "variant_ids": [
+            42911328141531
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/pink.png?v=1666614715",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37694181408987,
+          "created_at": "2022-07-05T12:04:30+08:00",
+          "position": 13,
+          "updated_at": "2022-10-24T20:31:37+08:00",
+          "product_id": 7711728074971,
+          "variant_ids": [
+            42911328207067
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/brown.png?v=1666614697",
+          "width": 2800,
+          "height": 2800
+        }
+      ],
+      "options": [
+        {
+          "name": "Type",
+          "position": 1,
+          "values": [
+            "Refill"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "1kg"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 3,
+          "values": [
+            "Orange",
+            "Jade White",
+            "Red",
+            "Grey",
+            "Blue",
+            "Silver",
+            "Beige",
+            "Blue Grey",
+            "Yellow",
+            "Green",
+            "Pink",
+            "Brown"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7713148076251,
+      "title": "TPU 95A",
+      "handle": "tpu-filament",
+      "body_html": "\u003cdiv data-line-index=\"0\" data-zone-id=\"0\" data-mce-fragment=\"1\"\u003e\n\u003cdiv\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-fragment=\"1\"\u003e\u003cimg src=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0645\/5876\/0155\/files\/1_15887ad6-90ad-4c60-9f4d-854d9ef4265f.png?v=1661129401\" style=\"float: none;\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-fragment=\"1\"\u003e\u003cimg src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/files\/Group_1650.png?v=1663321223\" style=\"float: none;\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-fragment=\"1\"\u003e\u003ca href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0574\/3116\/2995\/files\/Bambu_TPU_Technical_Data_Sheet.pdf?v=1663320186\" title=\"Bambu TPU_Technical Data Sheet\" target=\"_blank\"\u003e\u003cimg src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/files\/TDS_download_link.png?v=1663311838\" style=\"float: none;\"\u003e\u003c\/a\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-fragment=\"1\"\u003e\u003cimg src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/files\/Group_1649.png?v=1663321296\" style=\"float: none;\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-fragment=\"1\"\u003e\u003cimg src=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0584\/7236\/6216\/files\/3.png?v=1659516729\" style=\"float: none;\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-fragment=\"1\"\u003e\u003cimg src=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0584\/7236\/6216\/files\/4.png?v=1659516747\" style=\"float: none;\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-fragment=\"1\"\u003e\u003ca href=\"https:\/\/wiki.bambulab.com\/en\/knowledge-sharing\/bambu-reusable-spool\"\u003e\u003cimg src=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0584\/7236\/6216\/files\/5.png?v=1659516770\" style=\"float: none;\"\u003e\u003c\/a\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-fragment=\"1\"\u003e\u003cimg src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0584\/7236\/6216\/files\/Printed_Spool_8e7d54b1-5e2a-4769-814f-dde717d8149e.png?v=1662542652\" style=\"float: none;\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-fragment=\"1\"\u003e\u003cstrong\u003e\u003c\/strong\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-fragment=\"1\"\u003e\u003cstrong\u003eKind Reminder:\u003c\/strong\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-fragment=\"1\"\u003eTPU filament can NOT be print with AMS.\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-fragment=\"1\"\u003e\n\u003cp style=\"text-align: center;\"\u003e\u00a0\u003c\/p\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\n\u003cul data-mce-fragment=\"1\"\u003e\u003c\/ul\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\n\u003cul data-mce-fragment=\"1\"\u003e\u003c\/ul\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\n\u003cul data-mce-fragment=\"1\"\u003e\u003c\/ul\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\n\u003cul data-mce-fragment=\"1\"\u003e\u003c\/ul\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cbutton id=\"paste-helper-id\" style=\"width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;\"\u003e\u003c\/button\u003e",
+      "published_at": "2022-06-01T16:14:12+08:00",
+      "created_at": "2022-06-01T16:14:10+08:00",
+      "updated_at": "2023-01-16T21:25:41+08:00",
+      "vendor": "Bambu Lab",
+      "product_type": "TPU",
+      "tags": [
+        "filaments"
+      ],
+      "variants": [
+        {
+          "id": 43408635298011,
+          "title": "Filament with Spool \/ 1kg \/ White",
+          "option1": "Filament with Spool",
+          "option2": "1kg",
+          "option3": "White",
+          "sku": "U01-W0-1.75-1000-spl",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37705478209755,
+            "product_id": 7713148076251,
+            "position": 1,
+            "created_at": "2022-07-06T11:28:26+08:00",
+            "updated_at": "2022-08-15T21:07:40+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/w_a011fc8c-ab19-4226-81e4-3528438f31b3.png?v=1660568860",
+            "variant_ids": [
+              43408635298011
+            ]
+          },
+          "available": false,
+          "price": "37.99",
+          "grams": 1200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7713148076251,
+          "created_at": "2022-09-23T12:03:29+08:00",
+          "updated_at": "2023-01-11T14:40:36+08:00"
+        },
+        {
+          "id": 43408635330779,
+          "title": "Filament with Spool \/ 1kg \/ Black",
+          "option1": "Filament with Spool",
+          "option2": "1kg",
+          "option3": "Black",
+          "sku": "U01-K0-1.75-1000-spl",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37705641885915,
+            "product_id": 7713148076251,
+            "position": 2,
+            "created_at": "2022-07-06T11:52:45+08:00",
+            "updated_at": "2022-08-15T21:07:40+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/black1.png?v=1660568860",
+            "variant_ids": [
+              43408635330779
+            ]
+          },
+          "available": false,
+          "price": "37.99",
+          "grams": 1200,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7713148076251,
+          "created_at": "2022-09-23T12:03:29+08:00",
+          "updated_at": "2023-01-16T21:20:51+08:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 37705478209755,
+          "created_at": "2022-07-06T11:28:26+08:00",
+          "position": 1,
+          "updated_at": "2022-08-15T21:07:40+08:00",
+          "product_id": 7713148076251,
+          "variant_ids": [
+            43408635298011
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/w_a011fc8c-ab19-4226-81e4-3528438f31b3.png?v=1660568860",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37705641885915,
+          "created_at": "2022-07-06T11:52:45+08:00",
+          "position": 2,
+          "updated_at": "2022-08-15T21:07:40+08:00",
+          "product_id": 7713148076251,
+          "variant_ids": [
+            43408635330779
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/black1.png?v=1660568860",
+          "width": 2800,
+          "height": 2800
+        }
+      ],
+      "options": [
+        {
+          "name": "Type",
+          "position": 1,
+          "values": [
+            "Filament with Spool"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "1kg"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 3,
+          "values": [
+            "White",
+            "Black"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7713176584411,
+      "title": "PC",
+      "handle": "pc-filament",
+      "body_html": "\u003cdiv data-mce-fragment=\"1\" style=\"text-align: start;\" data-mce-style=\"text-align: start;\"\u003e\u003cimg src=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0645\/5876\/0155\/files\/1_be08e973-1da7-4f64-9a41-eb1f76ab4af6.png?v=1660719633\" style=\"float: none;\" data-mce-style=\"float: none;\" data-mce-src=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0645\/5876\/0155\/files\/1_be08e973-1da7-4f64-9a41-eb1f76ab4af6_480x480.png?v=1660719633\"\u003e\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\" style=\"text-align: start;\" data-mce-style=\"text-align: start;\"\u003e\u003cimg style=\"float: none;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/files\/Group_1653.png?v=1663320538\"\u003e\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\" style=\"text-align: start;\" data-mce-style=\"text-align: start;\"\u003e\u003ca title=\"Bambu PC_Technical Data Sheet\" href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0574\/3116\/2995\/files\/Bambu_PC_Technical_Data_Sheet.pdf?v=1663320185\"\u003e\u003cimg style=\"float: none;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/files\/TDS_download_link.png?v=1663311838\"\u003e\u003c\/a\u003e\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\" style=\"text-align: start;\" data-mce-style=\"text-align: start;\"\u003e\u003cimg style=\"float: none;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/files\/Group_1654.png?v=1663320639\"\u003e\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\" style=\"text-align: start;\" data-mce-style=\"text-align: start;\"\u003e\u003cimg src=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0645\/5876\/0155\/files\/Group_1340.png?v=1658920089\" style=\"float: none;\" data-mce-style=\"float: none;\" data-mce-src=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0645\/5876\/0155\/files\/Group_1340_480x480.png?v=1658920089\"\u003e\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\" style=\"text-align: start;\" data-mce-style=\"text-align: start;\"\u003e\u003cimg src=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0645\/5876\/0155\/files\/Group_1339_07019066-4a16-49e9-9bab-0aec45225eb0.png?v=1658920483\" style=\"float: none;\" data-mce-style=\"float: none;\" data-mce-src=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0645\/5876\/0155\/files\/Group_1339_07019066-4a16-49e9-9bab-0aec45225eb0_480x480.png?v=1658920483\"\u003e\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\" style=\"text-align: start;\" data-mce-style=\"text-align: start;\"\u003e\u003ca href=\"https:\/\/wiki.bambulab.com\/en\/knowledge-sharing\/bambu-reusable-spool\"\u003e\u003cimg src=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0645\/5876\/0155\/files\/Group_1338_12cf6394-1b0a-4f07-b8c2-6a410b908dec.png?v=1658920592\" style=\"float: none;\" data-mce-style=\"float: none;\" data-mce-src=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0645\/5876\/0155\/files\/Group_1338_12cf6394-1b0a-4f07-b8c2-6a410b908dec_480x480.png?v=1658920592\"\u003e\u003c\/a\u003e\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\" style=\"text-align: start;\" data-mce-style=\"text-align: start;\"\u003e\u003cimg src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0584\/7236\/6216\/files\/Printed_Spool_b92ea0b4-7421-4877-8c97-2218930b8a74.png?v=1662542845\" style=\"float: none;\" data-mce-style=\"float: none;\" data-mce-src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0584\/7236\/6216\/files\/Printed_Spool_b92ea0b4-7421-4877-8c97-2218930b8a74_480x480.png?v=1662542845\"\u003e\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\" style=\"text-align: start;\" data-mce-style=\"text-align: start;\"\u003e\n\u003cp style=\"text-align: center;\"\u003e\u00a0\u003c\/p\u003e\n\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\u003cstrong data-mce-fragment=\"1\"\u003e\u003c\/strong\u003e\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\n\u003cul data-mce-fragment=\"1\"\u003e\u003c\/ul\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\n\u003cdiv data-mce-fragment=\"1\"\u003e\n\u003cul data-mce-fragment=\"1\"\u003e\u003c\/ul\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cbutton id=\"paste-helper-id\" style=\"width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;\" data-mce-style=\"width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;\"\u003e\u003c\/button\u003e\n\u003cstyle\u003e\u003c!--\n.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }\n--\u003e\u003c\/style\u003e\n\u003cdiv class=\"embed-container\"\u003e\u003ciframe src=\"https:\/\/www.youtube.com\/embed\/8MMZstVnBOY\" allowfullscreen=\"\" frameborder=\"0\"\u003e\u003c\/iframe\u003e\u003c\/div\u003e",
+      "published_at": "2022-06-01T17:10:17+08:00",
+      "created_at": "2022-06-01T17:09:51+08:00",
+      "updated_at": "2023-01-10T21:40:43+08:00",
+      "vendor": "Bambu Lab",
+      "product_type": "PC",
+      "tags": [
+        "filaments"
+      ],
+      "variants": [
+        {
+          "id": 43408627106011,
+          "title": "Filament with Spool \/ 1kg \/ Clear Black",
+          "option1": "Filament with Spool",
+          "option2": "1kg",
+          "option3": "Clear Black",
+          "sku": "C00-C0-1.75-1000-spl",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37698723545307,
+            "product_id": 7713176584411,
+            "position": 1,
+            "created_at": "2022-07-05T21:09:50+08:00",
+            "updated_at": "2022-07-05T21:09:54+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/cb.png?v=1657026594",
+            "variant_ids": [
+              43408627106011
+            ]
+          },
+          "available": false,
+          "price": "35.99",
+          "grams": 1200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7713176584411,
+          "created_at": "2022-09-23T12:00:59+08:00",
+          "updated_at": "2023-01-10T21:40:43+08:00"
+        },
+        {
+          "id": 43408627138779,
+          "title": "Filament with Spool \/ 1kg \/ White",
+          "option1": "Filament with Spool",
+          "option2": "1kg",
+          "option3": "White",
+          "sku": "C00-W0-1.75-1000-spl",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37696518422747,
+            "product_id": 7713176584411,
+            "position": 2,
+            "created_at": "2022-07-05T16:25:14+08:00",
+            "updated_at": "2022-07-05T21:09:54+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/w_737400c9-e5cd-4b1d-a082-3af54e9f5894.png?v=1657026594",
+            "variant_ids": [
+              43408627138779
+            ]
+          },
+          "available": false,
+          "price": "35.99",
+          "grams": 1200,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7713176584411,
+          "created_at": "2022-09-23T12:00:59+08:00",
+          "updated_at": "2023-01-10T21:40:43+08:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 37698723545307,
+          "created_at": "2022-07-05T21:09:50+08:00",
+          "position": 1,
+          "updated_at": "2022-07-05T21:09:54+08:00",
+          "product_id": 7713176584411,
+          "variant_ids": [
+            43408627106011
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/cb.png?v=1657026594",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37696518422747,
+          "created_at": "2022-07-05T16:25:14+08:00",
+          "position": 2,
+          "updated_at": "2022-07-05T21:09:54+08:00",
+          "product_id": 7713176584411,
+          "variant_ids": [
+            43408627138779
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/w_737400c9-e5cd-4b1d-a082-3af54e9f5894.png?v=1657026594",
+          "width": 2800,
+          "height": 2800
+        }
+      ],
+      "options": [
+        {
+          "name": "Type",
+          "position": 1,
+          "values": [
+            "Filament with Spool"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "1kg"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 3,
+          "values": [
+            "Clear Black",
+            "White"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7713187102939,
+      "title": "Support for PA\/PET",
+      "handle": "support-for-pa-pet",
+      "body_html": "\u003cdiv data-line-index=\"0\" data-zone-id=\"0\" data-mce-fragment=\"1\"\u003e\n\u003cdiv data-line-index=\"0\" data-zone-id=\"0\" data-mce-fragment=\"1\"\u003e\n\u003cdiv data-line-index=\"0\" data-zone-id=\"0\" data-mce-fragment=\"1\"\u003e\n\u003cdiv style=\"text-align: start;\" data-line-index=\"0\" data-zone-id=\"0\" data-mce-fragment=\"1\"\u003e\u003cimg style=\"float: none;\" src=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0645\/5876\/0155\/files\/1_be08e973-1da7-4f64-9a41-eb1f76ab4af6.png?v=1660719633\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-line-index=\"0\" data-zone-id=\"0\" data-mce-fragment=\"1\"\u003e\u003cimg src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0584\/7236\/6216\/files\/s-g.png?v=1666615307\" style=\"float: none;\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-line-index=\"0\" data-zone-id=\"0\" data-mce-fragment=\"1\"\u003e\u003cimg src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0584\/7236\/6216\/files\/Group1645.png?v=1666615339\" style=\"float: none;\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-line-index=\"0\" data-zone-id=\"0\" data-mce-fragment=\"1\"\u003e\n\u003cdiv data-zone-id=\"0\" data-line-index=\"0\"\u003e\n\u003cspan\u003e\u003cb\u003e\u003c\/b\u003e\u003c\/span\u003e\u003cbr\u003e\n\u003c\/div\u003e\n\u003cdiv data-zone-id=\"0\" data-line-index=\"0\"\u003e\u003cspan\u003e\u003cb\u003eAttribute Comparision\u003c\/b\u003e\u003c\/span\u003e\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-line-index=\"0\" data-zone-id=\"0\" data-mce-fragment=\"1\"\u003e\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cstyle\u003e\u003c!--\nbr {mso-data-placement:same-cell;}--\u003e td {white-space:pre-wrap;border:1px solid #dee0e3;}\n--\u003e\u003c\/style\u003e\n\u003cdiv data-line-index=\"0\" data-zone-id=\"0\" data-mce-fragment=\"1\"\u003e\n\u003cdiv data-line-index=\"0\" data-zone-id=\"0\" data-mce-fragment=\"1\"\u003e\n\u003cdiv style=\"text-align: start;\" data-line-index=\"0\" data-zone-id=\"0\" data-mce-fragment=\"1\"\u003e\n\u003ctable\u003e\n\u003ccolgroup\u003e \u003ccol width=\"332\"\u003e \u003ccol width=\"371\"\u003e \u003ccol width=\"332\"\u003e \u003c\/colgroup\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd height=\"29\" width=\"332\"\u003e\u003c\/td\u003e\n\u003ctd height=\"29\" width=\"371\" data-sheet-value='\"Support W\"'\u003e\u003cstrong\u003eSupport for PLA\u003c\/strong\u003e\u003c\/td\u003e\n\u003ctd height=\"29\" width=\"332\" data-sheet-value='\"Support G\"'\u003e\u003cstrong\u003eSupport for PA\/PET\u003c\/strong\u003e\u003c\/td\u003e\n\u003c\/tr\u003e\n\u003ctr\u003e\n\u003ctd height=\"29\" width=\"332\" data-sheet-value='\"Color\"'\u003e\u003cstrong\u003eColor\u003c\/strong\u003e\u003c\/td\u003e\n\u003ctd height=\"29\" width=\"371\" data-sheet-value='\"White\"'\u003eWhite\u003c\/td\u003e\n\u003ctd height=\"29\" width=\"332\" data-sheet-value='\"Green\"'\u003eGreen\u003c\/td\u003e\n\u003c\/tr\u003e\n\u003ctr\u003e\n\u003ctd height=\"29\" width=\"332\" data-sheet-value='\"Nozzle Temperature\"'\u003e\u003cstrong\u003eNozzle Temperature\u003c\/strong\u003e\u003c\/td\u003e\n\u003ctd height=\"29\" width=\"371\" data-sheet-value='\"210-230\u00b0C\"'\u003e210-230\u00b0C\u003c\/td\u003e\n\u003ctd height=\"29\" width=\"332\" data-sheet-value='\"270-290\u00b0C\"'\u003e270-290\u00b0C\u003c\/td\u003e\n\u003c\/tr\u003e\n\u003ctr\u003e\n\u003ctd height=\"29\" width=\"332\" data-sheet-value='\"Bed Temperature\"'\u003e\u003cstrong\u003eBed Temperature\u003c\/strong\u003e\u003c\/td\u003e\n\u003ctd height=\"29\" width=\"371\" data-sheet-value='\"35-45\u00b0C\"'\u003e35-45\u00b0C\u003c\/td\u003e\n\u003ctd height=\"29\" width=\"332\" data-sheet-value='\"80-100\u00b0C\"'\u003e80-100\u00b0C\u003c\/td\u003e\n\u003c\/tr\u003e\n\u003ctr\u003e\n\u003ctd height=\"29\" width=\"332\" data-sheet-value='\"Print Speed\"'\u003e\u003cstrong\u003ePrint Speed\u003c\/strong\u003e\u003c\/td\u003e\n\u003ctd height=\"29\" width=\"371\" data-sheet-value='\"\u0026lt;200mm\/s\"'\u003e\u0026lt;200mm\/s\u003c\/td\u003e\n\u003ctd height=\"29\" width=\"332\" data-sheet-value='\"\u0026lt;100mm\/s\"'\u003e\u0026lt;100mm\/s\u003c\/td\u003e\n\u003c\/tr\u003e\n\u003ctr\u003e\n\u003ctd height=\"29\" width=\"332\" data-sheet-value='\"Water Soluble\"'\u003e\u003cstrong\u003eWater Soluble\u003c\/strong\u003e\u003c\/td\u003e\n\u003ctd height=\"29\" width=\"371\" data-sheet-value='\"No\"'\u003eNo\u003c\/td\u003e\n\u003ctd height=\"29\" width=\"332\" data-sheet-value='\"No\"'\u003eNo\u003c\/td\u003e\n\u003c\/tr\u003e\n\u003ctr\u003e\n\u003ctd height=\"31\" width=\"332\" data-sheet-value='\"Recommended for\"'\u003e\u003cstrong\u003eRecommended for\u003c\/strong\u003e\u003c\/td\u003e\n\u003ctd height=\"31\" width=\"371\" data-sheet-value='\"PLA\"'\u003ePLA\u003c\/td\u003e\n\u003ctd height=\"31\" width=\"332\" data-sheet-value='\"PA-CF, PA-GF, PET-CE\"'\u003ePA-CF, PA-GF, PET-CF\u003c\/td\u003e\n\u003c\/tr\u003e\n\u003ctr\u003e\n\u003ctd height=\"31\" width=\"332\" data-sheet-value='\"Cannot be used with\"'\u003e\u003cstrong\u003eCannot be used with\u003c\/strong\u003e\u003c\/td\u003e\n\u003ctd height=\"31\" width=\"371\" data-sheet-value='\"PA-CF, PA-GF, PET-CE, ABS, PETG, TPU, ASA\"'\u003ePA-CF, PA-GF, PET-CF, ABS, PETG, TPU, ASA\u003c\/td\u003e\n\u003ctd height=\"31\" width=\"332\" data-sheet-value='\"PLA, ABS, PETG, TPU, ASA\"'\u003ePLA, ABS, PETG, TPU, ASA\u003c\/td\u003e\n\u003c\/tr\u003e\n\u003c\/tbody\u003e\n\u003c\/table\u003e\n\u003cbr\u003e\n\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-line-index=\"0\" data-zone-id=\"0\" data-mce-fragment=\"1\"\u003e\n\u003cb data-mce-fragment=\"1\"\u003e\u003c\/b\u003e\u003cstrong\u003eKind Reminders\u003c\/strong\u003e\n\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-line-index=\"0\" data-zone-id=\"0\" data-mce-fragment=\"1\"\u003e\n\u003cdiv data-zone-id=\"0\" data-line-index=\"0\"\u003e\u003cspan\u003e1. Support filament cannot be used to print an item alone, but only to print the supporting portion of that item. AMS is recommended for multi-material printing with Bambu Support filament.\u003c\/span\u003e\u003c\/div\u003e\n\u003cdiv data-zone-id=\"0\" data-line-index=\"0\"\u003e\n\u003cdiv data-zone-id=\"0\" data-line-index=\"0\"\u003e\u003cspan\u003e2. Bambu Support filament can only be used with compatible temperatures and filament types. Failure to follow these guidelines can lead to clogs or other issues.\u003c\/span\u003e\u003c\/div\u003e\n\u003cdiv data-zone-id=\"0\" data-line-index=\"0\"\u003e\n\u003cp style=\"text-align: center;\"\u003e\u00a0\u003c\/p\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cdiv data-line-index=\"0\" data-zone-id=\"0\" data-mce-fragment=\"1\"\u003e\n\u003cdiv data-line-index=\"0\" data-zone-id=\"0\" data-mce-fragment=\"1\"\u003e\n\u003cdiv data-zone-id=\"0\" data-line-index=\"0\"\u003e\n\u003cdiv data-zone-id=\"0\" data-line-index=\"0\"\u003e\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cdiv data-line-index=\"0\" data-zone-id=\"0\" data-mce-fragment=\"1\"\u003e\n\u003cdiv data-zone-id=\"0\" data-line-index=\"0\"\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003c\/div\u003e\n\u003cdiv data-zone-id=\"0\" data-line-index=\"3\"\u003e\u003cspan\u003e\u003c\/span\u003e\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cbutton style=\"width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;\" id=\"paste-helper-id\"\u003e\u003c\/button\u003e\u003cbutton style=\"width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;\" id=\"paste-helper-id\"\u003e\u003c\/button\u003e",
+      "published_at": "2022-06-01T17:34:42+08:00",
+      "created_at": "2022-06-01T17:22:03+08:00",
+      "updated_at": "2023-01-11T18:05:21+08:00",
+      "vendor": "Bambu Lab",
+      "product_type": "Support for PA\/PET",
+      "tags": [
+        "filaments"
+      ],
+      "variants": [
+        {
+          "id": 43050119364827,
+          "title": "Filament with Spool \/ 0.5kg",
+          "option1": "Filament with Spool",
+          "option2": "0.5kg",
+          "option3": null,
+          "sku": "S01-G1-1.75-500-spl",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37697743159515,
+            "product_id": 7713187102939,
+            "position": 1,
+            "created_at": "2022-07-05T18:57:24+08:00",
+            "updated_at": "2022-07-05T18:57:25+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/g.png?v=1657018645",
+            "variant_ids": [
+              43050119364827
+            ]
+          },
+          "available": false,
+          "price": "35.99",
+          "grams": 700,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7713187102939,
+          "created_at": "2022-07-12T16:25:15+08:00",
+          "updated_at": "2023-01-11T18:02:17+08:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 37697743159515,
+          "created_at": "2022-07-05T18:57:24+08:00",
+          "position": 1,
+          "updated_at": "2022-07-05T18:57:25+08:00",
+          "product_id": 7713187102939,
+          "variant_ids": [
+            43050119364827
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/g.png?v=1657018645",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37719355457755,
+          "created_at": "2022-07-07T19:22:19+08:00",
+          "position": 2,
+          "updated_at": "2022-07-07T19:22:21+08:00",
+          "product_id": 7713187102939,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/20220707-190800.png?v=1657192941",
+          "width": 2800,
+          "height": 2800
+        }
+      ],
+      "options": [
+        {
+          "name": "Type",
+          "position": 1,
+          "values": [
+            "Filament with Spool"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "0.5kg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7713200931035,
+      "title": "Support for PLA",
+      "handle": "support-for-pla",
+      "body_html": "\u003cdiv style=\"text-align: start;\" data-mce-style=\"text-align: start;\"\u003e\u003cimg style=\"float: none;\" src=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0645\/5876\/0155\/files\/1_be08e973-1da7-4f64-9a41-eb1f76ab4af6.png?v=1660719633\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-style=\"text-align: start;\"\u003e\u003cimg src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0584\/7236\/6216\/files\/s-w.png?v=1666615098\" style=\"float: none;\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-style=\"text-align: start;\"\u003e\u003cimg src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0584\/7236\/6216\/files\/Group1648.png?v=1666615125\" style=\"float: none;\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-style=\"text-align: start;\"\u003e\u003cbr\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-style=\"text-align: start;\"\u003e\u003cb data-mce-fragment=\"1\"\u003e\u003c\/b\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-style=\"text-align: start;\"\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-style=\"text-align: start;\"\u003e\n\u003cdiv data-zone-id=\"0\" data-line-index=\"0\"\u003e\u003cspan\u003e\u003cb\u003eAttribute Comparision\u003c\/b\u003e\u003c\/span\u003e\u003c\/div\u003e\n\u003cdiv data-zone-id=\"0\" data-line-index=\"0\"\u003e\u003cspan\u003e\u003c\/span\u003e\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cstyle\u003e\u003c!--\nbr {mso-data-placement:same-cell;}--\u003e td {white-space:pre-wrap;border:1px solid #dee0e3;}\n--\u003e\u003c\/style\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-style=\"text-align: start;\"\u003e\n\u003cdiv data-zone-id=\"0\" data-line-index=\"0\"\u003e\n\u003ctable\u003e\n\u003ccolgroup\u003e \u003ccol width=\"332\"\u003e \u003ccol width=\"371\"\u003e \u003ccol width=\"332\"\u003e \u003c\/colgroup\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd height=\"29\" width=\"332\"\u003e\u003c\/td\u003e\n\u003ctd height=\"29\" width=\"371\" data-sheet-value='\"Support W\"'\u003e\u003cstrong\u003eSupport for PLA\u003c\/strong\u003e\u003c\/td\u003e\n\u003ctd height=\"29\" width=\"332\" data-sheet-value='\"Support G\"'\u003e\u003cstrong\u003eSupport for PA\/PET\u003c\/strong\u003e\u003c\/td\u003e\n\u003c\/tr\u003e\n\u003ctr\u003e\n\u003ctd height=\"29\" width=\"332\" data-sheet-value='\"Color\"'\u003e\u003cstrong\u003eColor\u003c\/strong\u003e\u003c\/td\u003e\n\u003ctd height=\"29\" width=\"371\" data-sheet-value='\"White\"'\u003eWhite\u003c\/td\u003e\n\u003ctd height=\"29\" width=\"332\" data-sheet-value='\"Green\"'\u003eGreen\u003c\/td\u003e\n\u003c\/tr\u003e\n\u003ctr\u003e\n\u003ctd height=\"29\" width=\"332\" data-sheet-value='\"Nozzle Temperature\"'\u003e\u003cstrong\u003eNozzle Temperature\u003c\/strong\u003e\u003c\/td\u003e\n\u003ctd height=\"29\" width=\"371\" data-sheet-value='\"210-230\u00b0C\"'\u003e210-230\u00b0C\u003c\/td\u003e\n\u003ctd height=\"29\" width=\"332\" data-sheet-value='\"270-290\u00b0C\"'\u003e270-290\u00b0C\u003c\/td\u003e\n\u003c\/tr\u003e\n\u003ctr\u003e\n\u003ctd height=\"29\" width=\"332\" data-sheet-value='\"Bed Temperature\"'\u003e\u003cstrong\u003eBed Temperature\u003c\/strong\u003e\u003c\/td\u003e\n\u003ctd height=\"29\" width=\"371\" data-sheet-value='\"35-45\u00b0C\"'\u003e35-45\u00b0C\u003c\/td\u003e\n\u003ctd height=\"29\" width=\"332\" data-sheet-value='\"80-100\u00b0C\"'\u003e80-100\u00b0C\u003c\/td\u003e\n\u003c\/tr\u003e\n\u003ctr\u003e\n\u003ctd height=\"29\" width=\"332\" data-sheet-value='\"Print Speed\"'\u003e\u003cstrong\u003ePrint Speed\u003c\/strong\u003e\u003c\/td\u003e\n\u003ctd height=\"29\" width=\"371\" data-sheet-value='\"\u0026lt;200mm\/s\"'\u003e\u0026lt;200mm\/s\u003c\/td\u003e\n\u003ctd height=\"29\" width=\"332\" data-sheet-value='\"\u0026lt;100mm\/s\"'\u003e\u0026lt;100mm\/s\u003c\/td\u003e\n\u003c\/tr\u003e\n\u003ctr\u003e\n\u003ctd height=\"29\" width=\"332\" data-sheet-value='\"Water Soluble\"'\u003e\u003cstrong\u003eWater Soluble\u003c\/strong\u003e\u003c\/td\u003e\n\u003ctd height=\"29\" width=\"371\" data-sheet-value='\"No\"'\u003eNo\u003c\/td\u003e\n\u003ctd height=\"29\" width=\"332\" data-sheet-value='\"No\"'\u003eNo\u003c\/td\u003e\n\u003c\/tr\u003e\n\u003ctr\u003e\n\u003ctd height=\"31\" width=\"332\" data-sheet-value='\"Recommended for\"'\u003e\u003cstrong\u003eRecommended for\u003c\/strong\u003e\u003c\/td\u003e\n\u003ctd height=\"31\" width=\"371\" data-sheet-value='\"PLA\"'\u003ePLA\u003c\/td\u003e\n\u003ctd height=\"31\" width=\"332\" data-sheet-value='\"PA-CF, PA-GF, PET-CE\"'\u003ePA-CF, PA-GF, PET-CF\u003c\/td\u003e\n\u003c\/tr\u003e\n\u003ctr\u003e\n\u003ctd height=\"31\" width=\"332\" data-sheet-value='\"Cannot be used with\"'\u003e\u003cstrong\u003eCannot be used with\u003c\/strong\u003e\u003c\/td\u003e\n\u003ctd height=\"31\" width=\"371\" data-sheet-value='\"PA-CF, PA-GF, PET-CE, ABS, PETG, TPU, ASA\"'\u003ePA-CF, PA-GF, PET-CF, ABS, PETG, TPU, ASA\u003c\/td\u003e\n\u003ctd height=\"31\" width=\"332\" data-sheet-value='\"PLA, ABS, PETG, TPU, ASA\"'\u003ePLA, ABS, PETG, TPU, ASA\u003c\/td\u003e\n\u003c\/tr\u003e\n\u003c\/tbody\u003e\n\u003c\/table\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-style=\"text-align: start;\"\u003e\u003cstrong\u003e\u003c\/strong\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-style=\"text-align: start;\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-style=\"text-align: start;\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-style=\"text-align: start;\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-style=\"text-align: start;\"\u003e\n\u003cstrong\u003e\u003c\/strong\u003e\n\u003cdiv data-zone-id=\"0\" data-line-index=\"0\"\u003e\n\u003cdiv data-zone-id=\"0\" data-line-index=\"0\"\u003e\u003cspan\u003e\u003c\/span\u003e\u003c\/div\u003e\n\u003cdiv data-zone-id=\"0\" data-line-index=\"0\"\u003e\u003cspan\u003e\u003c\/span\u003e\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cdiv data-line-index=\"0\" data-zone-id=\"0\"\u003e\n\u003cbr\u003e\u003cspan\u003e\u003c\/span\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-style=\"text-align: start;\"\u003e\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-style=\"text-align: start;\"\u003e\n\u003cstrong\u003eKind Reminders\u003c\/strong\u003e\u003cbr\u003e\n\u003cdiv data-line-index=\"0\" data-zone-id=\"0\"\u003e\u003cspan\u003e1. Support filament cannot be used to print an item alone, but only to print the supporting portion of that item. AMS is recommended for multi-material printing with Bambu Support filament.\u003c\/span\u003e\u003c\/div\u003e\n\u003cdiv data-line-index=\"0\" data-zone-id=\"0\"\u003e\n\u003cdiv data-line-index=\"0\" data-zone-id=\"0\"\u003e\u003cspan\u003e2. Bambu Support filament can only be used with compatible temperatures and filament types. Failure to follow these guidelines can lead to clogs or other issues.\u003c\/span\u003e\u003c\/div\u003e\n\u003cdiv data-line-index=\"0\" data-zone-id=\"0\"\u003e\n\u003cp style=\"text-align: center;\"\u003e\u00a0\u003c\/p\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003c\/div\u003e\n\u003cdiv style=\"text-align: start;\" data-mce-style=\"text-align: start;\"\u003e\u003c\/div\u003e\n\u003cstyle\u003e\u003c!--\nbr {mso-data-placement:same-cell;}--\u003e td {white-space:pre-wrap;border:1px solid #dee0e3;}\n--\u003e\u003c\/style\u003e",
+      "published_at": "2022-06-01T17:45:51+08:00",
+      "created_at": "2022-06-01T17:44:16+08:00",
+      "updated_at": "2023-01-11T07:41:11+08:00",
+      "vendor": "Bambu Lab",
+      "product_type": "Support for PLA",
+      "tags": [
+        "filaments"
+      ],
+      "variants": [
+        {
+          "id": 43050119790811,
+          "title": "Filament with Spool \/ 0.5kg",
+          "option1": "Filament with Spool",
+          "option2": "0.5kg",
+          "option3": null,
+          "sku": "S00-W0-1.75-500-spl",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37718400499931,
+            "product_id": 7713200931035,
+            "position": 1,
+            "created_at": "2022-07-07T16:37:32+08:00",
+            "updated_at": "2022-07-07T16:37:34+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/w1.png?v=1657183054",
+            "variant_ids": [
+              43050119790811
+            ]
+          },
+          "available": false,
+          "price": "31.99",
+          "grams": 700,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7713200931035,
+          "created_at": "2022-07-12T16:25:37+08:00",
+          "updated_at": "2023-01-11T07:41:11+08:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 37718400499931,
+          "created_at": "2022-07-07T16:37:32+08:00",
+          "position": 1,
+          "updated_at": "2022-07-07T16:37:34+08:00",
+          "product_id": 7713200931035,
+          "variant_ids": [
+            43050119790811
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/w1.png?v=1657183054",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37718367174875,
+          "created_at": "2022-07-07T16:30:54+08:00",
+          "position": 2,
+          "updated_at": "2022-07-07T16:37:34+08:00",
+          "product_id": 7713200931035,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/w_ae8a93d1-b57f-4c70-86a7-479e1e43e244.png?v=1657183054",
+          "width": 2800,
+          "height": 2800
+        }
+      ],
+      "options": [
+        {
+          "name": "Type",
+          "position": 1,
+          "values": [
+            "Filament with Spool"
+          ]
+        },
+        {
+          "name": "Size",
+          "position": 2,
+          "values": [
+            "0.5kg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7725940637915,
+      "title": "Bambu Reusable Spool",
+      "handle": "bambu-reusable-spool",
+      "body_html": "\u003cp\u003e\u003cstrong data-mce-fragment=\"1\"\u003eOverview:\u00a0\u003c\/strong\u003eWe've built the entire filament feeding system around a reusable spool design and achieved at least 20% less plastic waste in filament consumption. We chose the packaging material carefully to minimize the use of non-recyclable material.\u003c\/p\u003e\n\u003cp\u003e\u003cstrong data-mce-fragment=\"1\"\u003eSpecification:\u003c\/strong\u003e\u003cbr\u003e\u003c\/p\u003e\n\u003cul\u003e\n\u003cli\u003eMaterials: ABS\u003c\/li\u003e\n\u003cli\u003eTemperature Resistance: \u226470\u2103\u003c\/li\u003e\n\u003cli\u003ePacking Size: 200*200*67 mm\u003c\/li\u003e\n\u003cli\u003eWeight: 250g\u003c\/li\u003e\n\u003cli\u003eColor: Transparent\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cdiv style=\"text-align: left;\"\u003e\u003cimg src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0584\/7236\/6216\/files\/Reusable_Spool.png?v=1662543040\" alt=\"\" style=\"float: none;\"\u003e\u003c\/div\u003e\n\u003cstyle\u003e.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }\u003c\/style\u003e\u003cdiv class=\"embed-container\"\u003e\u003ciframe src=\"https:\/\/www.youtube.com\/embed\/8MMZstVnBOY\" frameborder=\"0\" allowfullscreen\u003e\u003c\/iframe\u003e\u003c\/div\u003e",
+      "published_at": "2022-06-16T19:00:56+08:00",
+      "created_at": "2022-06-16T19:00:55+08:00",
+      "updated_at": "2023-01-10T23:35:23+08:00",
+      "vendor": "Bambu Lab",
+      "product_type": "Accessories",
+      "tags": [
+        "Accessories",
+        "filaments"
+      ],
+      "variants": [
+        {
+          "id": 43719618199771,
+          "title": "Reusable Spool",
+          "option1": "Reusable Spool",
+          "option2": null,
+          "option3": null,
+          "sku": "RSP001",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 37698352316635,
+            "product_id": 7725940637915,
+            "position": 1,
+            "created_at": "2022-07-05T20:21:38+08:00",
+            "updated_at": "2022-07-05T20:22:36+08:00",
+            "alt": null,
+            "width": 2800,
+            "height": 2800,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/spool-2.png?v=1657023756",
+            "variant_ids": [
+              43719618199771
+            ]
+          },
+          "available": false,
+          "price": "10.99",
+          "grams": 250,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7725940637915,
+          "created_at": "2022-11-24T23:05:52+08:00",
+          "updated_at": "2023-01-10T23:31:17+08:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 37698352316635,
+          "created_at": "2022-07-05T20:21:38+08:00",
+          "position": 1,
+          "updated_at": "2022-07-05T20:22:36+08:00",
+          "product_id": 7725940637915,
+          "variant_ids": [
+            43719618199771
+          ],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/spool-2.png?v=1657023756",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37698352349403,
+          "created_at": "2022-07-05T20:21:38+08:00",
+          "position": 2,
+          "updated_at": "2022-07-05T20:22:36+08:00",
+          "product_id": 7725940637915,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/spool-1.png?v=1657023756",
+          "width": 2800,
+          "height": 2800
+        },
+        {
+          "id": 37698478571739,
+          "created_at": "2022-07-05T20:34:14+08:00",
+          "position": 3,
+          "updated_at": "2022-07-05T20:34:15+08:00",
+          "product_id": 7725940637915,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0645\/5876\/0155\/products\/spool-3_cc77660d-77f4-45a0-98d6-f2058e40c6a2.png?v=1657024455",
+          "width": 2800,
+          "height": 2800
+        }
+      ],
+      "options": [
+        {
+          "name": "Type",
+          "position": 1,
+          "values": [
+            "Reusable Spool"
+          ]
+        }
+      ]
+    }
+  ]
+}
