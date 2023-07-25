@@ -24,6 +24,7 @@ def get_stock():
             product_name = product['title'] + ' ' + variant['title']
             available = variant['available']
             stock[product_name] = available
+    print(f'Stock data: {stock}')
     return stock
 
 
@@ -43,6 +44,7 @@ async def check_filaments():
         for product_name, available in stock.items():
             if available and not old_stock[product_name]:
                 print(f'{product_name} is back in stock')
+                print(f'Product: {product_name}, Availability: {available}')
                 await notify_users(product_name)
         old_stock = stock
 
@@ -52,6 +54,7 @@ async def notify_users(product):
         user = bot.get_user(user_id)
         product_name = product['title']
         print(f'Notifying {user.name} about {product_name}')
+        print(f'User: {user.name}, Product: {product_name}')
         await user.send(product_name + ' is back in stock')
 
 
@@ -127,4 +130,3 @@ if __name__ == '__main__':
 
     token = os.environ['TOKEN']
     bot.run(token)
-
