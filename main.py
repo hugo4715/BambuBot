@@ -27,20 +27,16 @@ def get_stock():
     return stock
 
 
-@tasks.loop(seconds = 60)
+@tasks.loop(seconds=60)
 async def check_filaments():
     old_stock = get_stock()
-    print(f'Old stock: {old_stock}')
 
     while True:
         await asyncio.sleep(60)
         if not users_to_notify:
-            print('No users to notify')
             continue
 
-        print('Checking stock...')
         stock = get_stock()
-        print(f'New stock: {stock}')
         for product_name, available in stock.items():
             if available and not old_stock[product_name]:
                 await notify_users(product_name)
@@ -50,8 +46,7 @@ async def check_filaments():
 async def notify_users(product):
     for user_id in users_to_notify:
         user = bot.get_user(user_id)
-        product_name = product['title']
-        print(f'Sending notification to user {user_id} about product {product_name}')
+        product_name = product
         await user.send(product_name + ' is back in stock')
 
 
