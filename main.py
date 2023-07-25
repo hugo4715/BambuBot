@@ -24,13 +24,11 @@ def get_stock():
             product_name = product['title'] + ' ' + variant['title']
             available = variant['available']
             stock[product_name] = available
-    print(f'Stock data: {stock}')
     return stock
 
 
 @tasks.loop(seconds = 60)
 async def check_filaments():
-    # check out of stock filaments
     old_stock = get_stock()
 
     while True:
@@ -43,8 +41,6 @@ async def check_filaments():
         stock = get_stock()
         for product_name, available in stock.items():
             if available and not old_stock[product_name]:
-                print(f'{product_name} is back in stock')
-                print(f'Product: {product_name}, Availability: {available}')
                 await notify_users(product_name)
         old_stock = stock
 
@@ -53,8 +49,6 @@ async def notify_users(product):
     for user_id in users_to_notify:
         user = bot.get_user(user_id)
         product_name = product['title']
-        print(f'Notifying {user.name} about {product_name}')
-        print(f'User: {user.name}, Product: {product_name}')
         await user.send(product_name + ' is back in stock')
 
 
@@ -62,14 +56,12 @@ async def notify_users(product):
 async def filaments(ctx):
     response = get_stock()
     msg = 'Filaments out of stock:\n'
-    # first add the out of stock filaments
     out_of_stock = 0
     for product_name, available in response.items():
         if not available:
             msg += product_name + ' - out of stock\n'
             out_of_stock += 1
 
-    # then add the available filaments
     msg += '\nFilaments available:\n'
     in_stock = 0
     for product_name, available in response.items():
@@ -79,7 +71,6 @@ async def filaments(ctx):
 
     msg += f'\n{in_stock} filaments in stock, {out_of_stock} out of stock'
 
-    # send at most 2000 characters and split the message at a line break if needed
     part = ''
     for line in msg.splitlines():
         if len(part) + len(line) > 2000:
@@ -91,7 +82,6 @@ async def filaments(ctx):
 
 @bot.command('notify')
 async def filaments_in_stock_notification(ctx):
-    # add user to list of users to notify or remove user from list of users to notify
     user_id = ctx.message.author.id
     if user_id in users_to_notify:
         users_to_notify.remove(user_id)
@@ -99,7 +89,6 @@ async def filaments_in_stock_notification(ctx):
     else:
         users_to_notify.append(user_id)
         await ctx.send('You will be notified when filament is in stock')
-    # write json
     with open('/data/users.json', 'w') as f:
         json.dump(users_to_notify, f)
 
@@ -116,7 +105,6 @@ async def on_ready():
 if __name__ == '__main__':
     print('Starting bot...')
 
-    # load user from json
     users_to_notify = []
     if os.path.isfile('/data/users.json'):
         with open('/data/users.json', 'r') as f:
